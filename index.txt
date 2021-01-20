@@ -6,7 +6,8 @@
       </head> 
         <body>
           <div id="introduction">
-            <h3> <strong> Created by: </strong> Boyana </h3> 
+            <h3> <strong> Created by: </strong> Boyana </h3>
+            <h3> edited by: Annie Trinh </h3>
             <h1> My Cat Sai! </h1>
             <p> He is 5years old and loves to sleeps and play tag!</p>
             <img src="./images/sai1.jpg" alt="A picture of my cat"/> 
